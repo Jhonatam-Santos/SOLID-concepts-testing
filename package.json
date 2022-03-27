@@ -1,9 +1,9 @@
 {
-  "name": "apisistem",
+  "name": "ConceptsSOLID",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Jhonatam-Santos/PMEG-sistem.git",
-  "author": "Artorias-Knight <jhonatamsty.096@gmail.com>",
+  "repository": "https://github.com/Jhonatam-Santos/SOLID-concepts-testing.git",
+  "author": "Jhonatam-Santos <jhonatamsty.096@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "tsnd --transpile-only --respawn --ignore-watch node_modules src/server.ts"
