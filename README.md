@@ -1,2 +1,2 @@
-# SOLID-application-testing
-Mini-projeto para testar aplicação de conceitos S.O.L.I.D.
+# SOLID-concepts-testing
+Mini-projeto para testar conceitos do S.O.L.I.D.
